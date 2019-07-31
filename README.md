@@ -10,13 +10,13 @@ __How to use this library__
 
 __Functions__
 
-ui_lib.Clear() __*clears the console*__
-ui_lib.Center_Amount = __integer__ __*this sets the centering amount*__
-ui_lib.TopLines() __*use this for the top of the options/selection box*__
-ui_lib.CreateOption(__string__) __*creates an option*__
-ui_lib.Credits(__string__) __*displays credits/whatever you put as the credits/footer*__
-ui_lib.BottomLines() __*use this for the bottom of the options/selection box*__
-ui_lib.Debug() __*displays the amount of time it took to execute the UI Lib / Project*__
+* ui_lib.Clear() __*clears the console*__
+* ui_lib.Center_Amount = __integer__ __*this sets the centering amount*__
+* ui_lib.TopLines() __*use this for the top of the options/selection box*__
+* ui_lib.CreateOption(__string__) __*creates an option*__
+* ui_lib.Credits(__string__) __*displays credits/whatever you put as the credits/footer*__
+* ui_lib.BottomLines() __*use this for the bottom of the options/selection box*__
+* ui_lib.Debug() __*displays the amount of time it took to execute the UI Lib / Project*__
 
 __Example Program__
 
