@@ -31,7 +31,6 @@ ui_lib.Credits("ArilisDev")
 ui_lib.BottomLines()
 ui_lib.Debug()
 ```
-__Example Output__
 ![Example Output](https://cdn.zuros.info/uploader/files/da6npcvenex1xd8.png)
 
 __Check/Todo List__
