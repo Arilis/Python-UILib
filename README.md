@@ -36,6 +36,6 @@ ui_lib.Debug()
 __Check/Todo List__
 
 - [X] Create initial UI library
-- [] Automatic centering without using __ui_lib.Center_Amount__
-- [] Console coloring
-- [] Console Title
+- [ ] Automatic centering without using __ui_lib.Center_Amount__
+- [ ] Console coloring
+- [ ] Console Title
