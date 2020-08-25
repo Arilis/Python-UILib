@@ -17,11 +17,13 @@ __Functions__
 * ui_lib.Credits(__string__) __*displays credits/whatever you put as the credits/footer*__
 * ui_lib.BottomLines() __*use this for the bottom of the options/selection box*__
 * ui_lib.Debug() __*displays the amount of time it took to execute the UI Lib / Project*__
+* ui_lib.SetTitle(__string__) __*sets the console title to the passed in string*__
 
 __Example Program__
 
 ```python
 import ui_lib
+ui_lib.SetTitle("Python UILib By ArilisDev")
 ui_lib.Center_Amount = 20
 ui_lib.Clear()
 ui_lib.TopLines()
@@ -38,4 +40,4 @@ __Check/Todo List__
 - [X] Create initial UI library
 - [ ] Automatic centering without using __ui_lib.Center_Amount__
 - [ ] Console coloring
-- [ ] Console Title
+- [X] Console Title
